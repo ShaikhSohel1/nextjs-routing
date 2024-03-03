@@ -5,7 +5,7 @@ export default function Home() {
    <main className="">
     <div className="w-screen">
 
-    Home Page I.e localhost or root directory or '/'
+    Home Page I.e localhost or root directory 
     <div className=" flex justify-center font-bold text-5xl mt-12 mb-20 ">
        Home Page
     </div>  
