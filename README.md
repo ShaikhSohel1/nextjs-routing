@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Routing with App Router (v14) - Blog Post
 
-## Getting Started
+## Overview
+This repository contains the code and content for my blog post on Next.js routing with the App Router in version 14. In the blog post, I cover everything from basic routing concepts to advanced features for efficient route management.
 
-First, run the development server:
+## Blog Post
+Check out my blog post on #hashnode to learn more: [Next.js Routing with App Router (v14)](https://shaikhsohel.hashnode.dev/nextjs-14-routing-unveiled-the-ultimate-guide)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Contents
+- **src**: Contains the source code for the examples discussed in the blog post.
+  - **app**: Directory structure representing the routes and components used in the examples.
+- **README.md**: This README file providing an overview of the repository.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to Use
+1. Clone this repository to your local machine.
+2. Navigate to the `src` directory to explore the source code examples.
+3. Check out the blog post for detailed explanations and insights.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Questions or Feedback
+If you have any questions or feedback about the blog post or the code examples, feel free to reach out to me. You can find my contact information on my [hashnode](https://hashnode.com/@StellarBell) profile.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Enjoy reading and happy coding!
